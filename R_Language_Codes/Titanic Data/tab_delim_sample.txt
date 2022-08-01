@@ -1,0 +1,3 @@
+col1	col2	col3
+shan	50	trainer
+amy	22	student
